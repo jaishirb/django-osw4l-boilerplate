@@ -1,5 +1,5 @@
 
-## **Django Simple Started Kit** ##
+## **Django osw4l boilerplate** ##
 ## is a django project, that provides some settings to help to developers to start a new django project with the least effort, so simple how clone a repository ##
 
 ## About the project ##
@@ -17,13 +17,9 @@
  - apps structure defined
  - api structure defined
  - **django channels settings** [(read more...)](https://channels.readthedocs.io/en/stable/)
- - **django debug toolbar** [(read more...)](https://github.com/jazzband/django-debug-toolbar/blob/master/README.rst)
  - **django rest framework** [(read more...)](http://www.django-rest-framework.org/)
  - **django rest framework token authentication** [(read more...)](http://www.django-rest-framework.org/api-guide/authentication/#tokenauthentication)
  - **django rest auth** (login and registration) [(read more...)](http://django-rest-auth.readthedocs.io/en/latest/introduction.html)
- - **django smart selects** [(read more...)](https://github.com/digi604/django-smart-selects/blob/master/README.md)
- - **django material and material admin** [(read more...)](http://forms.viewflow.io/)
- - **django widget tweaks** [(read more...)](https://github.com/kmike/django-widget-tweaks/blob/master/README.rst)
  - **cors headers free** [(read more...)](https://github.com/ottoyiu/django-cors-headers/blob/master/README.rst)
  - firebase cloud messaging **(fcm)**  support [(read more...)](https://firebase.google.com/docs/cloud-messaging/server)
 
